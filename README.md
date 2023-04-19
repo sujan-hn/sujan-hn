@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,I'm Sujan 👋
 
 <!--
 **sujan-hn/sujan-hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->currently a engineering student, having intrests in digital design and VLSI domain, tryig to grab more opportunities. Still can't get over the fact that a chip is manufactured from sand!![image](https://user-images.githubusercontent.com/129975786/233165578-e6fd059a-578f-4d73-bd90-f5497a982097.png)
+![image](https://user-images.githubusercontent.com/129975786/233165594-f5cb3e93-ddcd-4d38-b1ae-d470b730c84b.png)
