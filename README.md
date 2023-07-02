@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->currently a engineering student, having intrests in digital design and VLSI domain. Still can't get over the fact that a chip is manufactured from sand! 
-![image](https://user-images.githubusercontent.com/129975786/233165827-a107581d-6964-4968-919e-ea5896abcaa3.png)
+-->currently a engineering student, having intrests in digital design and VLSI domain.
 
 
 
